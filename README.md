@@ -1,6 +1,6 @@
 # Apparel-classification-webapp-using-CNN
 
-In this repo , I'll use mnist clothing images to classify diffrent Appreals.
+In this repo , I'll use mnist clothing images to classify different Appreals.
 This system can diffrentiate 9 types of clothings namely "Tshirt","Trouser","Pullover","Dress","Coat","Sandal","Shirt","Sneaker","Bag","Ankle boot" . 
 
 
